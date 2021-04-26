@@ -14,7 +14,7 @@ public class test {
     String msg = peopleService.socialize(
         "shylock"); //这里的shylock还是参数name 不过现在是把整个”行为“传入了进来，因为传入的是 "社交主持人:" +name 所以返回的是 社交主持人:shylock
     System.out.println(msg);
-    String name ="ss";
+    String name ="sss";
   }
 
   public static void main(String[] args) {
